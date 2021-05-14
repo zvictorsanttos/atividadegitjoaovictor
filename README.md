@@ -1,4 +1,5 @@
 # atividadegitjoaovictor
-Atividade Git realizada no processo Trainner
 
-# Feature carrinho apenas de ilustração para diferenciar as Branchs " main " e " develop "
+Atividade TortoiseGit realizada para treinamento da ferramenta
+
+
