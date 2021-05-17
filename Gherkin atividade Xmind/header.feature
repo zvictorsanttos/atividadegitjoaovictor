@@ -1,4 +1,4 @@
-#language: pt
+#Language: pt
 
 Funcionalidade: Home header
 Eu como usuário desejo visualizar as Categorias
