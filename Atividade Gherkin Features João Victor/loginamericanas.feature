@@ -6,7 +6,7 @@ Funcionalidade: Login Americanas
     previamente realizado.
     
     
-    Contexto:
+    Contexto: Tela de login
         Dado que esteja na página de login
     
     Esquema do Cenario: Login interno

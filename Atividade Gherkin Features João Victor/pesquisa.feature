@@ -9,7 +9,7 @@ Funcionalidade: Pesquisa sobre Quality Assurence
     Contexto: Pesquisa
         Dado que esteja pagina de pesquisa 
     
-    Cenário:
+    Cenário: Filtro de pesquisa
         Quando pesquisar sobre imagens de " Quality Assurence "
         E clicar na primeira imagem exibida
         Então deverá ser redicionar para link da imagem
