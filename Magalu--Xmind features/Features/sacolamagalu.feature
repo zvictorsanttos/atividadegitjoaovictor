@@ -1,4 +1,4 @@
-#Langueage: pt 
+#langueage: pt 
 
 Funcionalidade: Sacola de Compras Magalu
 
