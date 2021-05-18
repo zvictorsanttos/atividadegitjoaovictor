@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #Language : pt
+=======
+#language : pt
+>>>>>>> 0100a6c0bc027408c53d45649e789eb66ea093ae
 
 Funcionalidade: Filtro de Lupa
 Eu como usuário desejo

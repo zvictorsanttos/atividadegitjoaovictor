@@ -1,6 +1,12 @@
+<<<<<<< HEAD
             #Language: pt
 
             Funcionalidade: Filtro
+=======
+            #language: pt
+
+            Funcionalidade: Filtrar Pesquisas por Notebooks
+>>>>>>> 0100a6c0bc027408c53d45649e789eb66ea093ae
             Eu como usuário desejo filtrar categorias de notebook
 
             Contexto: Filtro de Notebook
