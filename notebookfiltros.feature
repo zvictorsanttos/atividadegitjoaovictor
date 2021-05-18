@@ -1,6 +1,6 @@
             #Language: pt
 
-            Funcionalidade: Filtrar Pesquisas por Notebooks
+            Funcionalidade: Filtro
             Eu como usuário desejo filtrar categorias de notebook
 
             Contexto: Filtro de Notebook
