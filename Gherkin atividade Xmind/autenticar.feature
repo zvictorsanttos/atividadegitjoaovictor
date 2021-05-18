@@ -10,9 +10,9 @@ Dado que esteja na tela de autenticação
 
 Esquema do Cenario: Tela de Cadastro
 Quando informar o "<e-mail>" 
-E se for um e-mail valido
+E quando cadastrar com um e-mail valido
 Então deverá ser redirecionado para página "<página>" de cadastro
-E se for um e-mail invalido 
+E quando cadastrar com um e-mail invalido 
 Então deverá ser exibida mensagem "<mensagem>"
 Exemplos: 
             | e-mail                        | página       | mensagem                               |
