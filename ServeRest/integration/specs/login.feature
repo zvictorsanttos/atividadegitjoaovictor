@@ -7,7 +7,7 @@ Funcionalidade: Login
     Esquema do Cenário: Realizar login
         Quando acessar a página /login
         E informar "<string>"
-        Então deverá obter "<code>" com "<mensagem>"
+        Então deverá retornar schema "post_login" e "<status>" com "<mensagem>"
             Exemplos:
                 | string   | code | mensagem                    |
                 | valido   | 200  | login realizado com sucesso |
