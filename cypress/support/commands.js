@@ -24,6 +24,7 @@
 // -- This will overwrite an existing command --
 // Cypress.Commands.overwrite('visit', (originalFn, url, options) => { ... })
 
+//Criar uma nova ong
 Cypress.Commands.add("create0ng", () => {
     cy.request({
         method: 'POST',
@@ -36,6 +37,7 @@ Cypress.Commands.add("create0ng", () => {
                 whatsapp: "815885858"
 
         }
+    //Validar Request
     }).then(response => {
         expect(response.body.id).is.not.null;
         cy.log(response.body.id);
@@ -45,6 +47,7 @@ Cypress.Commands.add("create0ng", () => {
     });
 })
 
+// Criar um novo incidents
 Cypress.Commands.add('createNewIncident', () => {
     Cypress.env('created0ngid')
     cy.request ({
