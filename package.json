@@ -11,6 +11,18 @@
   "author": "João Victor",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^7.4.0"
+    "cypress": "^7.4.0",
+    "cypress-cucumber-preprocessor": "^4.1.1",
+    "faker": "^5.5.3",
+    "jsonschema": "^1.4.0",
+    "rimraf": "^3.0.2",
+    "fs-extra": "^10.0.0"
+  },
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinition": false,
+    "step_definitions": "cypress/integration/step_definitions/",
+    "cucumberJson": {
+      "generate": false
+    }
   }
 }
